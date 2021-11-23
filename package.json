@@ -1,0 +1,29 @@
+{
+    "name": "JsonParser",
+    "version": "1.0.0",
+    "description": "Get formated json data",
+    "homepage": "https://github.com/Marko9827/JsonParser#readme",
+    "main": "main.js",
+    "author": {
+        "email": "marko.supergun@gmail.com",
+        "name": "Marko Nikolic",
+        "url": "https://github.com/Marko9827"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "json",
+        "parsejson",
+        "jsonformatter",
+        "parse"
+    ],
+    "publishConfig": {
+        "registry": "https://npm.pkg.github/@marko9827"
+    },
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Marko9827/JsonParser"
+    }
+}
